@@ -2,7 +2,7 @@
 ![Customers](/customer.jpg)
 In today’s data-driven environment, understanding who your customers are is just as important as understanding what they buy. The customer-personality project is designed to bridge that gap: to explore, model and predict distinct personality profiles of customers based on their behavioural and transaction data. By doing so, the project aims to empower businesses, marketers and data scientists with deeper insights into customer segments — enabling more personalised engagement, tailored messaging and stronger customer relationships.
 
-### Table of Contents
+### Procedures
 - Data Loading
 - Data Preprocessing
 - Feature Selection and Engineering
@@ -15,11 +15,6 @@ In today’s data-driven environment, understanding who your customers are is ju
 - Model Evaluation
 - Post-Training Visualization
 - New Prediction Input Function
-- Usage Instructions
-- Project Structure
-- Dependencies
-- Contributing
-- License
 
 #### Usage Instructions
 To run this project locally:
