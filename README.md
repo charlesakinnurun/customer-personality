@@ -58,6 +58,7 @@ Key Python libraries used in this project include:
 - seaborn
 - matplotlib
 - jupyter
+
 You can install all dependencies via:
 ```
 pip install -r requirements.txt
