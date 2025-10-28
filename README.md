@@ -16,7 +16,7 @@ In today’s data-driven environment, understanding who your customers are is ju
 - Post-Training Visualization
 - New Prediction Input Function
 
-### Usage Instructions
+## Usage Instructions
 To run this project locally:
 1. Clone the repository:
 ```
@@ -33,7 +33,7 @@ jupyter notebook model.ipynb
 
 ```
 
-### Project Structure
+## Project Structure
 ```
 customer-personality/
 │
@@ -63,10 +63,10 @@ You can install all dependencies via:
 ```
 pip install -r requirements.txt
 ```
-### Contributing
+## Contributing
 Contributions are welcome! If you’d like to suggest improvements — e.g., new modelling algorithms, additional feature engineering, or better documentation — please open an Issue or submit a Pull Request.
 Please ensure your additions are accompanied by clear documentation and, where relevant, updated evaluation results.
 
-### License
+## License
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE)
  file for details.
