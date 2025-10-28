@@ -1,8 +1,8 @@
-## Introduction
+# Customer Personality
 ![Customers](/customer.jpg)
 In today’s data-driven environment, understanding who your customers are is just as important as understanding what they buy. The customer-personality project is designed to bridge that gap: to explore, model and predict distinct personality profiles of customers based on their behavioural and transaction data. By doing so, the project aims to empower businesses, marketers and data scientists with deeper insights into customer segments — enabling more personalised engagement, tailored messaging and stronger customer relationships.
 
-### Table of Contents
+## Procedures
 - Data Loading
 - Data Preprocessing
     - Handle missing values
@@ -28,9 +28,12 @@ In today’s data-driven environment, understanding who your customers are is ju
     - Calinski Harabaz Sore
 - Post-Training Visualization
 - New Prediction Input Function
+<<<<<<< HEAD
 
+=======
+>>>>>>> 655e27a1c4b81a133b66b38351627fd8bbbf77f1
 
-#### Usage Instructions
+## Usage Instructions
 To run this project locally:
 1. Clone the repository:
 ```
@@ -47,7 +50,7 @@ jupyter notebook model.ipynb
 
 ```
 
-#### Project Structure
+## Project Structure
 ```
 customer-personality/
 │
@@ -59,24 +62,28 @@ customer-personality/
 └── README.md          
 
 ```
-#### Dependencies
-Key Python libraries used in this project include:
-- pandas
-- numpy
-- scikit-learn
-- seaborn
-- matplotlib
-- jupyter
+## Tools and Dependencies
+- Programming language
+    - Python 
+- libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+- Environment
+    - Jupyter Notebook
+- IDE
+    - VSCode
 
 You can install all dependencies via:
 ```
 pip install -r requirements.txt
-
 ```
-#### Contributing
+## Contributing
 Contributions are welcome! If you’d like to suggest improvements — e.g., new modelling algorithms, additional feature engineering, or better documentation — please open an Issue or submit a Pull Request.
 Please ensure your additions are accompanied by clear documentation and, where relevant, updated evaluation results.
 
-#### License
+## License
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE)
  file for details.
