@@ -28,10 +28,7 @@ In today’s data-driven environment, understanding who your customers are is ju
     - Calinski Harabaz Sore
 - Post-Training Visualization
 - New Prediction Input Function
-<<<<<<< HEAD
 
-=======
->>>>>>> 655e27a1c4b81a133b66b38351627fd8bbbf77f1
 
 ## Usage Instructions
 To run this project locally:
