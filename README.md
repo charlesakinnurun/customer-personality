@@ -5,21 +5,30 @@ In today’s data-driven environment, understanding who your customers are is ju
 ### Table of Contents
 - Data Loading
 - Data Preprocessing
+    - Handle missing values
+    - Handle duplicated rows
+    - Drop missing values
 - Feature Selection and Engineering
 - Data Scaling
+    - StandardScaler
 - Dimensionality Reduction
+    - Principal Component Analysis
 - Pre-Training Visualization
+    - Data Distribution using scatterplot
 - Hyperparameter Tuning
+    - Optimal K determination using Silhouette Score
 - Model Comparison
+    - K-Means
+    - Aggolomerative
+    - DBSCAN
+    - Gaussian Mixture Model (GMM)
 - Model Training
 - Model Evaluation
+    - Silhouette Score
+    - Calinski Harabaz Sore
 - Post-Training Visualization
 - New Prediction Input Function
-- Usage Instructions
-- Project Structure
-- Dependencies
-- Contributing
-- License
+
 
 #### Usage Instructions
 To run this project locally:
