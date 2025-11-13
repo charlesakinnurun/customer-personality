@@ -15,6 +15,7 @@ In today’s data-driven environment, understanding who your customers are is ju
     - Principal Component Analysis
 - Pre-Training Visualization
     - Data Distribution using scatterplot
+![pre-training-visualization](/output1.png)
 - Hyperparameter Tuning
     - Optimal K determination using Silhouette Score
 - Model Comparison
@@ -27,6 +28,7 @@ In today’s data-driven environment, understanding who your customers are is ju
     - Silhouette Score
     - Calinski Harabaz Sore
 - Post-Training Visualization
+![post-training-visualiztion](/output2.png)
 - New Prediction Input Function
 
 
