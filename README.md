@@ -82,6 +82,10 @@ customer-personality/
 ├── Screenshot (231).png
 ├── Screenshot (232).png
 ├── Screenshot (233).png
+├── SECURITY.md        
+├── CONTRIBUTING.md    
+├── CODE_OF_CONDUCT.md 
+├── LICENSE
 └── README.md          
 
 ```
