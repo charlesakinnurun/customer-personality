@@ -70,12 +70,6 @@ customer-personality/
 ├── customer.jpg       
 ├── output1.png        
 ├── output2.png        
-├── Screenshot (228).png
-├── Screenshot (229).png
-├── Screenshot (230).png
-├── Screenshot (231).png
-├── Screenshot (232).png
-├── Screenshot (233).png
 ├── SECURITY.md        
 ├── CONTRIBUTING.md    
 ├── CODE_OF_CONDUCT.md 
@@ -101,12 +95,3 @@ You can install all dependencies via:
 ```
 pip install -r requirements.txt
 ```
-
-
-## Process
-![Screenshot(228)](/Screenshot%20(228).png)
-![Screenshot(229)](/Screenshot%20(229).png)
-![Screenshot(230)](/Screenshot%20(230).png)
-![Screenshot(231)](/Screenshot%20(231).png)
-![Screenshot(232)](/Screenshot%20(232).png)
-![Screenshot(233)](/Screenshot%20(233).png)
