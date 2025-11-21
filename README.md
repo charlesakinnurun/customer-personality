@@ -39,13 +39,7 @@ In today’s data-driven environment, understanding who your customers are is ju
 - New Prediction Input Function
 
 
-## Process
-![Screenshot(228)](/Screenshot%20(228).png)
-![Screenshot(229)](/Screenshot%20(229).png)
-![Screenshot(230)](/Screenshot%20(230).png)
-![Screenshot(231)](/Screenshot%20(231).png)
-![Screenshot(232)](/Screenshot%20(232).png)
-![Screenshot(233)](/Screenshot%20(233).png)
+
 
 
 ## Usage Instructions
@@ -107,3 +101,12 @@ You can install all dependencies via:
 ```
 pip install -r requirements.txt
 ```
+
+
+## Process
+![Screenshot(228)](/Screenshot%20(228).png)
+![Screenshot(229)](/Screenshot%20(229).png)
+![Screenshot(230)](/Screenshot%20(230).png)
+![Screenshot(231)](/Screenshot%20(231).png)
+![Screenshot(232)](/Screenshot%20(232).png)
+![Screenshot(233)](/Screenshot%20(233).png)
