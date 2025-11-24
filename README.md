@@ -39,6 +39,25 @@ In today’s data-driven environment, understanding who your customers are is ju
 - New Prediction Input Function
 
 
+## Tech Stack and Tools
+- Programming language
+    - Python 
+- libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+- Environment
+    - Jupyter Notebook
+    - Anaconda
+- IDE
+    - VSCode
+
+You can install all dependencies via:
+```
+pip install -r requirements.txt
+```
 
 
 
@@ -76,22 +95,4 @@ customer-personality/
 ├── LICENSE
 └── README.md          
 
-```
-## Tools and Dependencies
-- Programming language
-    - Python 
-- libraries
-    - scikit-learn
-    - pandas
-    - numpy
-    - seaborn
-    - matplotlib
-- Environment
-    - Jupyter Notebook
-- IDE
-    - VSCode
-
-You can install all dependencies via:
-```
-pip install -r requirements.txt
 ```
