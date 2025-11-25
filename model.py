@@ -2,6 +2,9 @@
 # Import the neccessary libraries
 
 # %%
+#%pip install pandas matplotlib seaborn scikit-learn numpy
+
+# %%
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -136,7 +139,11 @@ pca_df = pd.DataFrame(X_pca,columns=["PCA1","PCA2"])
 # Visualization before Clustering
 
 # %%
-plt.Figure(figsize=(14,7))
+WIDTH = 19
+HEIGHT = 9
+
+
+plt.Figure(figsize=(WIDTH,HEIGHT))
 # Create a scatter plot of the 2 PCA components to visualize the unclustered data
 sns.scatterplot(x="PCA1",y="PCA2",data=pca_df,color="red",alpha=0.6)
 plt.title("Data Distribution (Before Clustering - PCA Components)")
